@@ -4,6 +4,6 @@ public class InMassBody {
         double a = growth * growth / 100;
         double imt = weight * 100 / a;
         return imt;
-        }
-
     }
+
+}
